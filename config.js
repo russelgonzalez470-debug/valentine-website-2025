@@ -20,11 +20,12 @@ const CONFIG = {
             secretAnswer: "yes, I di dead up fi you babes 😏"
         },
         second: {
-            text: "How much do you love me?",
-            minText: "A little 🤏",
-            maxText: "More than anything ❤️",
-            buttonText: "This much!"
-        }
+    text: "How much do you love me?",
+    minText: "A little 🤏",
+    maxText: "Too damn much ❤️",
+    buttonText: "This much!"
+}
+
     },
 
     celebration: {
