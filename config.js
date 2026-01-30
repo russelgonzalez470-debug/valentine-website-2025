@@ -57,7 +57,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "",
+        musicUrl: "https://res.cloudinary.com/dl8daidfy/video/upload/v1769747818/I_Wanna_Be_Yours_kow0m9.mp3",
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
